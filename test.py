@@ -13,7 +13,7 @@ BLUE = (0, 0, 255)
 # Set the height and width of the screen
 size = [400, 300]
 screen = pygame.display.set_mode(size)
-
+    
 pygame.display.set_caption("My Game")
 
 # Loop until the user clicks the close button.
