@@ -2,4 +2,3 @@
 
 # Python game
 
-# Hello
